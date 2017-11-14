@@ -1,0 +1,12 @@
+apply plugin: 'java'
+version '1.0'
+
+
+
+
+repositories {
+    mavenCentral()
+}
+dependencies {
+    compile 'com.jfoenix:jfoenix:1.2.0'
+}
